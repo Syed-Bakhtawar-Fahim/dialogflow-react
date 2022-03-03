@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dialogflow-react/static/css/main.073c9b0a.css",
+    "main.js": "/dialogflow-react/static/js/main.438d5f59.js",
+    "static/js/787.aaf6b8fa.chunk.js": "/dialogflow-react/static/js/787.aaf6b8fa.chunk.js",
+    "static/media/logo.svg": "/dialogflow-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/dialogflow-react/index.html",
+    "main.073c9b0a.css.map": "/dialogflow-react/static/css/main.073c9b0a.css.map",
+    "main.438d5f59.js.map": "/dialogflow-react/static/js/main.438d5f59.js.map",
+    "787.aaf6b8fa.chunk.js.map": "/dialogflow-react/static/js/787.aaf6b8fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.438d5f59.js"
+  ]
+}
